@@ -1,0 +1,27 @@
+{
+  "name": "stat-json",
+  "version": "1.0.0",
+  "description": "parse stat command as json",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "stat",
+    "json"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "permcon": "^1.0.3"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "ts-jest": "^29.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/virtueer/stat-json.git"
+  }
+}
