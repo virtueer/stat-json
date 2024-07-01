@@ -1,0 +1,84 @@
+  File: /etc/.
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1103893     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2024-06-25 13:12:39.960694473 +0000
+Change: 2024-06-25 13:12:39.960694473 +0000
+  File: /etc/..
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1103901     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:54.693996374 +0000
+Modify: 2024-07-01 21:33:52.623954177 +0000
+Change: 2024-07-01 21:33:52.623954177 +0000
+  File: /etc/group
+  Size: 306             Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1098018     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 19:48:12.313925214 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.695876701 +0000
+  File: /etc/hostname
+  Size: 13              Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d      Inode: 1103915     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-30 15:52:02.188285023 +0000
+Modify: 2024-07-01 18:52:03.234185716 +0000
+Change: 2024-07-01 18:52:03.234185716 +0000
+  File: /etc/hosts
+  Size: 174             Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d      Inode: 1103917     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 18:52:03.724195327 +0000
+Modify: 2024-07-01 18:52:03.724195327 +0000
+Change: 2024-07-01 18:52:03.724195327 +0000
+  File: /etc/localtime
+  Size: 114             Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1098019     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 19:48:12.313925214 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.695876701 +0000
+  File: '/etc/mtab' -> '/proc/mounts'
+  Size: 12              Blocks: 0          IO Block: 4096   symbolic link
+Device: b1h/177d        Inode: 1103899     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-25 13:12:39.960694473 +0000
+Modify: 2024-06-25 13:12:39.960694473 +0000
+Change: 2024-06-25 13:12:39.960694473 +0000
+  File: /etc/network
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098020     Links: 6
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: /etc/nsswitch.conf
+  Size: 494             Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1098028     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 19:48:12.313925214 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.695876701 +0000
+  File: /etc/passwd
+  Size: 340             Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1098029     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 19:48:12.313925214 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.695876701 +0000
+  File: /etc/resolv.conf
+  Size: 222             Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d      Inode: 1103918     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 18:52:03.144183955 +0000
+Modify: 2024-07-01 18:52:03.144183955 +0000
+Change: 2024-07-01 18:52:03.234185716 +0000
+  File: /etc/shadow
+  Size: 136             Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1098030     Links: 1
+Access: (0600/-rw-------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 19:48:12.313925214 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.695876701 +0000

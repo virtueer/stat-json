@@ -1,11 +1,12 @@
 {
   "name": "stat-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse stat command as json",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc --build"
   },
   "keywords": [
     "stat",

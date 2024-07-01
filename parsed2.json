@@ -1,0 +1,458 @@
+[
+  {
+    "name": ".",
+    "size": 4096,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "directory",
+    "device": "b1h/177d",
+    "inode": 1103893,
+    "links": 1,
+    "permission": {
+      "fileType": "Directory",
+      "symbolic": "drwxr-xr-x",
+      "octal": "0755",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719261883715,
+    "modify": 1719321159960,
+    "change": 1719321159960
+  },
+  {
+    "name": "..",
+    "size": 4096,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "directory",
+    "device": "b1h/177d",
+    "inode": 1103901,
+    "links": 1,
+    "permission": {
+      "fileType": "Directory",
+      "symbolic": "drwxr-xr-x",
+      "octal": "0755",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719869634693,
+    "modify": 1719869632623,
+    "change": 1719869632623
+  },
+  {
+    "name": "group",
+    "size": 306,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "b1h/177d",
+    "inode": 1098018,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719863292313,
+    "modify": 1684449257000,
+    "change": 1719261883695
+  },
+  {
+    "name": "hostname",
+    "size": 13,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "830h/2096d",
+    "inode": 1103915,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719762722188,
+    "modify": 1719859923234,
+    "change": 1719859923234
+  },
+  {
+    "name": "hosts",
+    "size": 174,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "830h/2096d",
+    "inode": 1103917,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719859923724,
+    "modify": 1719859923724,
+    "change": 1719859923724
+  },
+  {
+    "name": "localtime",
+    "size": 114,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "b1h/177d",
+    "inode": 1098019,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719863292313,
+    "modify": 1684449257000,
+    "change": 1719261883695
+  },
+  {
+    "name": "'mtab' -> '/proc/mounts'",
+    "size": 12,
+    "blocks": 0,
+    "ioBlocks": 4096,
+    "type": "symbolic link",
+    "device": "b1h/177d",
+    "inode": 1103899,
+    "links": 1,
+    "permission": {
+      "fileType": "Symbolic Link",
+      "symbolic": "lrwxrwxrwx",
+      "octal": "0777",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "group": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "other": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719321159960,
+    "modify": 1719321159960,
+    "change": 1719321159960
+  },
+  {
+    "name": "network",
+    "size": 4096,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "directory",
+    "device": "b1h/177d",
+    "inode": 1098020,
+    "links": 6,
+    "permission": {
+      "fileType": "Directory",
+      "symbolic": "drwxr-xr-x",
+      "octal": "0755",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": true
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": true
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719261883715,
+    "modify": 1684449257000,
+    "change": 1719261883715
+  },
+  {
+    "name": "nsswitch.conf",
+    "size": 494,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "b1h/177d",
+    "inode": 1098028,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719863292313,
+    "modify": 1684449257000,
+    "change": 1719261883695
+  },
+  {
+    "name": "passwd",
+    "size": 340,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "b1h/177d",
+    "inode": 1098029,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719863292313,
+    "modify": 1684449257000,
+    "change": 1719261883695
+  },
+  {
+    "name": "resolv.conf",
+    "size": 222,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "830h/2096d",
+    "inode": 1103918,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-r--r--",
+      "octal": "0644",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": true,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719859923144,
+    "modify": 1719859923144,
+    "change": 1719859923234
+  },
+  {
+    "name": "shadow",
+    "size": 136,
+    "blocks": 8,
+    "ioBlocks": 4096,
+    "type": "regular file",
+    "device": "b1h/177d",
+    "inode": 1098030,
+    "links": 1,
+    "permission": {
+      "fileType": "Regular File",
+      "symbolic": "-rw-------",
+      "octal": "0600",
+      "owner": {
+        "read": true,
+        "write": true,
+        "execute": false
+      },
+      "group": {
+        "read": false,
+        "write": false,
+        "execute": false
+      },
+      "other": {
+        "read": false,
+        "write": false,
+        "execute": false
+      },
+      "suid": false,
+      "guid": false,
+      "sticky_bit": false
+    },
+    "uid": "(0/root)",
+    "gid": "(0/root)",
+    "access": 1719863292313,
+    "modify": 1684449257000,
+    "change": 1719261883695
+  }
+]

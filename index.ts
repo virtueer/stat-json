@@ -1,4 +1,5 @@
 import { analyze } from "permcon";
+import * as path from "node:path";
 
 export interface Stat {
   name: string;
@@ -17,7 +18,13 @@ export interface Stat {
   change: number;
 }
 
-export function parse(output: string) {
+export function parse(output: string, dest?: string) {
+  if (dest && !path.isAbsolute(dest)) {
+    throw new Error("Dest path must be absoltue");
+  }
+
+  const currentPath = dest ? path.posix.normalize(dest) : "";
+
   const lines = output.trim().split(/\r?\n/);
 
   const items: Stat[] = [];
@@ -33,9 +40,9 @@ export function parse(output: string) {
       }
 
       const parts = line.split(/\s+/);
-      const name = parts[1];
+      const name = parts.slice(1).join(" ");
 
-      item.name = name;
+      item.name = name.replace(currentPath, "");
     }
 
     // Size: 4096      	Blocks: 8          IO Block: 4096   directory

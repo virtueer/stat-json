@@ -1,0 +1,140 @@
+  File: .
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1103901     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:54.693996374 +0000
+Modify: 2024-07-01 21:33:52.623954177 +0000
+Change: 2024-07-01 21:33:52.623954177 +0000
+  File: ..
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1103901     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:54.693996374 +0000
+Modify: 2024-07-01 21:33:52.623954177 +0000
+Change: 2024-07-01 21:33:52.623954177 +0000
+  File: .dockerenv
+  Size: 0               Blocks: 0          IO Block: 4096   regular empty file
+Device: b1h/177d        Inode: 1103892     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-25 13:12:39.960694473 +0000
+Modify: 2024-06-25 13:12:39.960694473 +0000
+Change: 2024-06-25 13:12:39.960694473 +0000
+  File: asds
+  Size: 4               Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1104140     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:31:57.743879516 +0000
+Modify: 2024-07-01 21:31:57.743879516 +0000
+Change: 2024-07-01 21:31:57.743879516 +0000
+  File: bin
+  Size: 12288           Blocks: 24         IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098011     Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: dev
+  Size: 340             Blocks: 0          IO Block: 4096   directory
+Device: d3h/211d        Inode: 1           Links: 5
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 22:07:16.158461179 +0000
+Modify: 2024-07-01 18:52:03.374188460 +0000
+Change: 2024-07-01 18:52:03.374188460 +0000
+  File: etc
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1103893     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2024-06-25 13:12:39.960694473 +0000
+Change: 2024-06-25 13:12:39.960694473 +0000
+  File: home
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098031     Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (65534/  nobody)   Gid: (65534/  nobody)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: keyza>a
+  Size: 1               Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1104589     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:41.604577832 +0000
+Modify: 2024-07-01 21:33:41.604577832 +0000
+Change: 2024-07-01 21:33:41.604577832 +0000
+  File: keyzaa
+  Size: 1               Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1104367     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:30.354343210 +0000
+Modify: 2024-07-01 21:33:30.354343210 +0000
+Change: 2024-07-01 21:33:30.354343210 +0000
+  File: keyzx -> a
+  Size: 1               Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1104611     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:33:52.623954177 +0000
+Modify: 2024-07-01 21:33:52.623954177 +0000
+Change: 2024-07-01 21:33:52.623954177 +0000
+  File: lib
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098032     Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: 'lib64' -> 'lib'
+  Size: 3               Blocks: 0          IO Block: 4096   symbolic link
+Device: b1h/177d        Inode: 1098041     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2023-05-18 22:34:17.000000000 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: proc
+  Size: 0               Blocks: 0          IO Block: 1024   directory
+Device: d0h/208d        Inode: 1           Links: 568
+Access: (0555/dr-xr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 18:52:03.374188460 +0000
+Modify: 2024-07-01 18:52:03.374188460 +0000
+Change: 2024-07-01 18:52:03.374188460 +0000
+  File: root
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098042     Links: 1
+Access: (0700/drwx------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 18:52:00.874140665 +0000
+Modify: 2024-06-30 13:34:30.723930288 +0000
+Change: 2024-06-30 13:34:30.723930288 +0000
+  File: sys
+  Size: 0               Blocks: 0          IO Block: 4096   directory
+Device: d7h/215d        Inode: 1           Links: 11
+Access: (0555/dr-xr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 18:52:03.374188460 +0000
+Modify: 2024-07-01 18:52:03.374188460 +0000
+Change: 2024-07-01 18:52:03.374188460 +0000
+  File: test
+  Size: 4               Blocks: 8          IO Block: 4096   regular file
+Device: b1h/177d        Inode: 1104110     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-07-01 21:31:41.663925358 +0000
+Modify: 2024-07-01 21:31:41.663925358 +0000
+Change: 2024-07-01 21:31:41.663925358 +0000
+  File: tmp
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098043     Links: 2
+Access: (1777/drwxrwxrwt)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: usr
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098044     Links: 4
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000
+  File: var
+  Size: 4096            Blocks: 8          IO Block: 4096   directory
+Device: b1h/177d        Inode: 1098048     Links: 4
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-24 20:44:43.715877085 +0000
+Modify: 2023-05-18 22:34:17.000000000 +0000
+Change: 2024-06-24 20:44:43.715877085 +0000

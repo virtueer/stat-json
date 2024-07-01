@@ -1,4 +1,14 @@
 index.ts
 test.ts
-sample.txt
 jest.config.js
+LICENSE
+tsconfig.json
+.gitignore
+
+sample1.txt
+sample2.txt
+sample3.txt
+
+parsed1.json
+parsed2.json
+parsed3.json
